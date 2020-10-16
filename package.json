@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "inspirational-quotes": "^1.0.8",
+    "random-words": "^1.1.1",
     "venom-bot": "^2.0.14"
   }
 }
