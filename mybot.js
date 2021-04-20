@@ -15,11 +15,7 @@ venom.create().then((client) => {
 })
 
 let messageArrray = [
-    'will get to you soon :)',
-    'arey howlee ruk naa ;)',
-    'kya re khali peeli disturb karra ;)',
-    'wasup mama all good? how come you have pinged me??',
-    'asshole - finally pinged me huh'
+    'will get to you soon :)','done','well','calm'
 ]
 
 const start = (client) => {
